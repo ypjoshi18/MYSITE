@@ -1,0 +1,43 @@
+body {
+    color: beige;
+    background: #111;
+    margin-bottom: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 800px;
+}
+
+h1 {
+    text-align: center;
+    color: lightgreen;
+    font-size: 40px;
+}
+
+h2 {
+    color: gold;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img {
+    margin-bottom: 30px;
+    image-orientation: from-image;
+}
+
+a {
+    color: indianred;
+}
+
+code {
+    color: lime;
+    border-radius: 5px;
+    word-wrap: break-word;
+}
+
+.monero {
+    padding-right: 50px;
+}
